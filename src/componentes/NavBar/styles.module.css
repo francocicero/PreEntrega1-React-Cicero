@@ -1,0 +1,14 @@
+.Navbar{
+    background-color: rgb(120, 220, 123);
+    display: flex;
+}
+.container{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.menuNav{
+    color: red;
+    display: flex;
+    
+}
